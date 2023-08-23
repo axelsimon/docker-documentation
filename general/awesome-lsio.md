@@ -134,7 +134,7 @@
 | [projectsend](https://github.com/linuxserver/docker-projectsend/) | [projectsend](http://www.projectsend.org) is a self-hosted application that lets you upload files and assign them to specific clients that you create yourself. Secure, private and easy. No more depending on external services or e-mail to send those files. |
 | [pwndrop](https://github.com/linuxserver/docker-pwndrop/) | [pwndrop](https://github.com/kgretzky/pwndrop) is a self-deployable file hosting service for sending out red teaming payloads or securely sharing your private files over HTTP and WebDAV. |
 | [pydio-cells](https://github.com/linuxserver/docker-pydio-cells/) | [pydio-cells](https://pydio.com/) is the nextgen file sharing platform for organizations. It is a full rewrite of the Pydio project using the Go language following a micro-service architecture. |
-| [snapdrop](https://github.com/linuxserver/docker-snapdrop/) | [snapdrop](https://github.com/RobinLinus/snapdrop) A local file sharing in your browser. Inspired by Apple's Airdrop. |
+| [pairdrop](https://github.com/linuxserver/docker-pairdrop/) | [pairdrop](https://github.com/schlagmichdoch/PairDrop) A local-first file sharing service in your browser, which also works beyond your local network. Inspired by Apple's Airdrop and Snapdrop. |
 | [xbackbone](https://github.com/linuxserver/docker-xbackbone/) | [xbackbone](https://github.com/SergiX44/XBackBone) is a simple, self-hosted, lightweight PHP file manager that support the instant sharing tool ShareX and *NIX systems. It supports uploading and displaying images, GIF, video, code, formatted text, and file downloading and uploading. Also have a web UI with multi user management, past uploads history and search support. |
 
 ## Finance
